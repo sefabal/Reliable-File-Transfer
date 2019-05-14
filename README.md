@@ -1,5 +1,13 @@
 # RELIABLE FILE TRANSFER APP
 
+- You can use this app with Java9.
+
+- "mvn package" will create a fileTransferApp.jar file inside target directory.
+
+You can open file 
+
+- java -jar fileTransferApp.jar 
+
 You can transfer files with 2 options.
 
 - UDP
