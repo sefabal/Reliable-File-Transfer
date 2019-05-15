@@ -1,5 +1,7 @@
 # RELIABLE FILE TRANSFER APP
 
+![Screenshot](screenshot.png)
+
 - You can use this app with Java9.
 
 - "mvn package" will create a fileTransferApp.jar file inside target directory.
